@@ -1,5 +1,5 @@
-# Islak Kek Tarif Uygulaması
-Bu repo Kodluyoruz Front-End Eğitimindeki Yemek tarif projemdir.İçerisinde bir adet README dosyası ve bir adet de html dosyası barındırıyor.
+# Three-Basic-Page
+Bu repo Kodluyoruz Front-End Eğitimindeki Yemek tarif projemdir.İçerisinde bir adet README dosyası ve üç adet de html dosyası barındırıyor.
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
