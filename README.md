@@ -1,14 +1,14 @@
 # Three-Basic-Page
-Bu repo Kodluyoruz Front-End Eğitimindeki three-basic-page tarif projemdir.İçerisinde bir adet README dosyası ve üç adet de html dosyası barındırıyor.
+This repo is my three-basic-page recipe project in the Kodluyoruz Front-End Tutorial. It contains one README file and three html files..
 # Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+First clone the project.
 ```
 git clone https://github.com/emirkose08/three-basic-page.git
 ```
 Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+After cloning the project you can open the project on Visual Studio Code
 
-Linux için:
+# For Linux:
 ```
 cd three-basic-page
 code .
